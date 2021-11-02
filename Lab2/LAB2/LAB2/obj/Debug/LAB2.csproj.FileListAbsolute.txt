@@ -1,0 +1,11 @@
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.StudentGrades.resources
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.pdb
+D:\Ahmed\2nd_year\1st_term\Database\Labs\Lab2\LAB2\LAB2\obj\Debug\LAB2.Statistics.resources
